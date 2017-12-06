@@ -18,4 +18,4 @@ Stellar provides two next-gen services:
 3. On the go advice about your account health and tips on how to save money, where the deals are etc. 
 
 
-An existing Stellar Demo can be found here [link to Stekkar!](https://murchie85.github.io/stellar.html)
+An existing Stellar Demo can be found here [link to Stellar!](https://murchie85.github.io/stellar.html)
